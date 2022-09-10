@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.silder{
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  overflow: hidden;
+}
+.menu-item{
+  list-style-type: none;
+  margin-left: 1.5rem;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+
+}
+.menu:hover{
+  border: 1px solid ridge;
+}

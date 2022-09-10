@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+
+.react-datetime-picker__inputGroup__input{
+  width:18px !important
+}
+.react-datetime-picker__inputGroup__input--hasLeadingZero{
+  width:10px !important
+}
+.react-datetime-picker__inputGroup__year{
+  width:40px !important
+}
+.react-datetime-picker__inputGroup__leadingZero{
+  margin-left: 2px !important;
+}
+.tableWinner{
+  overflow: scroll !important;
+  width:100% !important;
+  min-height: '75vh';
+  padding: '10px';
+  background: white
+}
